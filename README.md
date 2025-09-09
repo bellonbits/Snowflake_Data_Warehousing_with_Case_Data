@@ -1,13 +1,3 @@
-Got it ✅ — let’s **simplify the Snowflake lab** for beginners using your dataset structure with columns:
-
-```
-Case_ID, Date_Onset, County, Sex, Age, Occupation, Case_Status, Clinical_Presentation, Lab_Diagnosis, Travel_History, Travel_Destination
-```
-
-We’ll keep it **step-by-step and beginner-friendly**, so students can run queries quickly and see results without getting lost.
-
----
-
 # Beginner Lab: Snowflake Data Warehousing with Case Data
 
 ## Objectives
